@@ -1,6 +1,6 @@
-# new_app_flutter
+# Flutter Calculator
 
-A new Flutter application.
+This is an application made with flutter and dart programming language.
 
 ## Getting Started
 
